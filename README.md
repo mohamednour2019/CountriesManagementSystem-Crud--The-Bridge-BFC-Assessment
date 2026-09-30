@@ -8,7 +8,7 @@ A robust RESTful API built as a technical assessment to manage Countries and the
 
 - **Framework:** .NET 10 / ASP.NET Core Web API
 - **Database:** SQL Server & Entity Framework Core
-- **Architecture:** Clean Architecture (Domain → Application → Infrastructure → API)
+- **Architecture:** Clean Architecture
 - **Patterns Used:**
   - **CQRS-style Organization** — Clear separation of Commands and Queries per feature
   - **Result Pattern** — Internal `DomainResult` wrapper for safe business logic execution without exceptions
