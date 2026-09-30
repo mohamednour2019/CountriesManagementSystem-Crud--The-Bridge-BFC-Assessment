@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CountriesManagementSystem.API/CountriesManagementSystem.API.csproj" />
+  <Project Path="CountriesManagementSystem.Application/CountriesManagementSystem.Application.csproj" />
+  <Project Path="CountriesManagementSystem.Domain/CountriesManagementSystem.Domain.csproj" />
+  <Project Path="CountriesManagementSystem.Infrastructure/CountriesManagementSystem.Infrastructure.csproj" />
+  <Project Path="CountriesManagementSystem.Shared/CountriesManagementSystem.Shared.csproj" />
+</Solution>
